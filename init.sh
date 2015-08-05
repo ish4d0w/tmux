@@ -16,6 +16,6 @@ done
 git clone --recursive git://github.com/jmt33/mytmux.git $HOME/.tmux \
     || die "Could not clone the repository to ${HOME}/.tmux"
 
-ln -s $HOME/.tmux/tmux.conf $HOME/.tmux.conf
+ln -s $HOME/.tmux/.tmux.conf $HOME/.tmux.conf
 
 echo "Install successfully."
