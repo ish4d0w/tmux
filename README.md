@@ -1,7 +1,9 @@
-mytmux
+Install
 ======
 
-tmux 配置
+```
+$ curl -Lo- https://raw.github.com/jmt33/mytmux/master/bootstrap.sh | bash
+```
 
 # 第 1 章 基础知识（Learning The Basic）
 
@@ -302,3 +304,6 @@ new-window -n processes "top"
 | `PREFIX x` | 关闭当前面板，带有确认提示 |
 | `PREFIX SPACE` | 循环地使用 tmux 的几个默认面板布局 |
 "`
+
+
+
