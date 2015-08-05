@@ -2,7 +2,7 @@ Install
 ======
 
 ```
-$ curl -Lo- https://raw.github.com/jmt33/mytmux/master/init.sh | sh
+$ curl -Lo- https://raw.github.com/jmt33/mytmux/master/init.sh | bash
 ```
 
 # 第 1 章 基础知识（Learning The Basic）
