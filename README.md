@@ -2,7 +2,7 @@ Install
 ======
 
 ```
-$ curl -Lo- https://raw.github.com/jmt33/mytmux/master/bootstrap.sh | bash
+$ curl -Lo- https://raw.github.com/jmt33/mytmux/master/init.sh | sh
 ```
 
 # 第 1 章 基础知识（Learning The Basic）
